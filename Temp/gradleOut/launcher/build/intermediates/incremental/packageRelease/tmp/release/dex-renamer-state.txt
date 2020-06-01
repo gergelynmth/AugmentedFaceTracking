@@ -1,0 +1,4 @@
+#Mon Jun 01 17:02:21 CEST 2020
+base.0=/home/geribruu/workspace/AR/FaceTracking/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
